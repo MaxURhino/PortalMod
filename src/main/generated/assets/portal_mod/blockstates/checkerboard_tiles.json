@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "portal_mod:block/checkerboard_tiles"
+    }
+  }
+}

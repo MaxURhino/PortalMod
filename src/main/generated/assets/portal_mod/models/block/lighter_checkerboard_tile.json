@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "portal_mod:block/lighter_checkerboard_tile"
+  }
+}

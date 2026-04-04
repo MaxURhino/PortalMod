@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "portal_mod",
+  "version": "${version}",
+  "name": "Portal Mod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/portal_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.maxrhino.portal_mod.client.datagen.PortalModDataGenerator"
+    ],
+    "client": [
+      "net.maxrhino.portal_mod.client.PortalModClient"
+    ],
+    "main": [
+      "net.maxrhino.portal_mod.PortalMod"
+    ],
+    "modmenu": [
+      "net.maxrhino.portal_mod.util.compat.modmenu.PortalModModMenuCompat"
+    ]
+  },
+  "mixins": [
+    "portal_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "geckolib": "*",
+    "sodium": "*"
+  },
+  "custom": {
+    "modmenu": {
+
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "portal_mod:block/lighter_checkerboard_tile"
+    }
+  }
+}
