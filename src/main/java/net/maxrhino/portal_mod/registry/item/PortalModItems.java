@@ -11,6 +11,8 @@ import net.minecraft.world.item.Item;
 import java.util.function.Function;
 
 public class PortalModItems extends ModAssetInitializer {
+    // TODO: Register the portal gun.
+
     private static <T extends Item> T register(String name, Function<Item.Properties, T> itemFactory, Item.Properties settings) {
         ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, PortalMod.id(name));
         T item = itemFactory.apply(settings);

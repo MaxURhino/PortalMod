@@ -6,6 +6,7 @@ import com.geckolib.animatable.manager.AnimatableManager;
 import com.geckolib.util.GeckoLibUtil;
 import net.minecraft.world.item.Item;
 
+// TODO: Make the portal gun actually work!
 public class PortalGunItem extends Item implements GeoItem {
     private final AnimatableInstanceCache geoCache = GeckoLibUtil.createInstanceCache(this);
 
