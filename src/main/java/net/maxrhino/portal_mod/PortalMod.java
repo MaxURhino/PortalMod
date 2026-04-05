@@ -3,6 +3,7 @@ package net.maxrhino.portal_mod;
 import net.fabricmc.api.ModInitializer;
 import net.maxrhino.portal_mod.registry.block.PortalModBlocks;
 import net.maxrhino.portal_mod.registry.item.PortalModItems;
+import net.maxrhino.portal_mod.registry.item.tabs.PortalModCreativeModeTabs;
 import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,6 +18,7 @@ public class PortalMod implements ModInitializer {
         LOGGER.info("Loading {}.", MOD_NAME);
         PortalModBlocks.getInstance().bootstrap();
         PortalModItems.getInstance().bootstrap();
+        PortalModCreativeModeTabs.getInstance().bootstrap();
         LOGGER.info("{} has been initialized.", MOD_NAME);
     }
 

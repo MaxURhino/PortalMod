@@ -7,6 +7,11 @@
     "MixinFabricCreativeModeTabOutput"
   ],
   "client": [
+    "screen.MixinScreen",
+    "screen.MixinTitleScreen",
+    "MixinSplashRenderer",
+    "accessors.screen.ScreenAccessor",
+    "accessors.screen.TitleScreenAccessor"
   ],
   "injectors": {
     "defaultRequire": 1

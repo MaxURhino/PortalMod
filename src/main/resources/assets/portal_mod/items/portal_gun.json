@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "portal_mod:item/portal_gun",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}
