@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.portal_gun.idle": {
+			"loop": true,
+			"animation_length": 0.0417
+		},
+		"animation.portal_gun.shoot": {
+			"animation_length": 0.3333,
+			"bones": {
+				"root": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.125": {
+							"vector": [-7.5, 0, 0],
+							"easing": "easeOutCirc"
+						},
+						"0.3333": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	}
+}
