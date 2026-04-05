@@ -3,6 +3,7 @@ package net.maxrhino.portal_mod.registry.block;
 import net.fabricmc.fabric.api.creativetab.v1.CreativeModeTabEvents;
 import net.maxrhino.portal_mod.PortalMod;
 import net.maxrhino.portal_mod.interfaces.ducks.FabricCreativeModeTabOutputDuck;
+import net.maxrhino.portal_mod.registry.block.types.PortalBlock;
 import net.maxrhino.portal_mod.registry.util.ModAssetInitializer;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -20,6 +21,7 @@ public class PortalModBlocks extends ModAssetInitializer {
     public static final Block DARKER_CHECKERBOARD_TILE = register("darker_checkerboard_tile");
     public static final Block LIGHTER_CHECKERBOARD_TILE = register("lighter_checkerboard_tile");
     public static final Block CHECKERBOARD_TILES = register("checkerboard_tiles");
+    public static final Block PORTAL = register("portal", PortalBlock::new, BlockBehaviour.Properties.of().noOcclusion().noCollision(), true);
 
     public PortalModBlocks() {
         super("block");
@@ -56,6 +58,10 @@ public class PortalModBlocks extends ModAssetInitializer {
         CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.BUILDING_BLOCKS).register((outputOg) -> {
             FabricCreativeModeTabOutputDuck output = (FabricCreativeModeTabOutputDuck) outputOg;
             output.portal_mod$accept(DARKER_CHECKERBOARD_TILE, LIGHTER_CHECKERBOARD_TILE, CHECKERBOARD_TILES);
+        });
+        CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.OP_BLOCKS).register((outputOg) -> {
+            FabricCreativeModeTabOutputDuck output = (FabricCreativeModeTabOutputDuck) outputOg;
+            output.portal_mod$accept(PORTAL);
         });
     }
 }

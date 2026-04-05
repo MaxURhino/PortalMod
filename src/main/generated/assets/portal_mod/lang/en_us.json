@@ -1,5 +1,6 @@
 {
   "block.portal_mod.checkerboard_tiles": "Checkerboard Tiles",
   "block.portal_mod.darker_checkerboard_tile": "Darker Checkerboard Tile",
-  "block.portal_mod.lighter_checkerboard_tile": "Lighter Checkerboard Tile"
+  "block.portal_mod.lighter_checkerboard_tile": "Lighter Checkerboard Tile",
+  "item.portal_mod.portal_gun": "Portal Gun"
 }
