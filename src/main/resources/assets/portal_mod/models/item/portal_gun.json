@@ -31,17 +31,17 @@
       ]
     },
     "firstperson_righthand": {
-      "translation": [
-        0,
-        -7.5,
-        0
+      "scale": [
+        0.4,
+        0.4,
+        0.4
       ]
     },
     "firstperson_lefthand": {
-      "translation": [
-        0,
-        -7.5,
-        0
+      "scale": [
+        0.4,
+        0.4,
+        0.4
       ]
     },
     "ground": {
@@ -60,6 +60,11 @@
       "rotation": [
         30,
         -135,
+        0
+      ],
+      "translation": [
+        0,
+        -1.75,
         0
       ],
       "scale": [
