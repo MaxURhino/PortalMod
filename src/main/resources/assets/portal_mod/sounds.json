@@ -1,0 +1,8 @@
+{
+  "portal.00_part1_entry-1": {
+    "replace": false,
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-1"
+    ]
+  }
+}
