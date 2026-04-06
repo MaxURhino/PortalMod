@@ -40,6 +40,7 @@ public class PortalModCreativeModeTabs extends ModAssetInitializer {
                             output.accept(PortalModBlocks.CHECKERBOARD_TILES);
                             output.accept(PortalModBlocks.DARKER_CHECKERBOARD_TILE);
                             output.accept(PortalModBlocks.LIGHTER_CHECKERBOARD_TILE);
+                            output.accept(PortalModBlocks.TEST_GLASS_WALL);
                             output.accept(PortalModItems.PORTAL_GUN);
                         }).build()
         );

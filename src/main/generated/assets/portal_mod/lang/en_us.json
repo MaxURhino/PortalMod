@@ -2,5 +2,18 @@
   "block.portal_mod.checkerboard_tiles": "Checkerboard Tiles",
   "block.portal_mod.darker_checkerboard_tile": "Darker Checkerboard Tile",
   "block.portal_mod.lighter_checkerboard_tile": "Lighter Checkerboard Tile",
-  "item.portal_mod.portal_gun": "Portal Gun"
+  "closedcaptions.portal.00_part1_entry-1": "<clr:219,112,147><I>Hello and, again, welcome to the Aperture Science computer-aided enrichment center.",
+  "closedcaptions.portal.00_part1_entry-2": "<clr:219,112,147><I>We hope your brief detention in the relaxation vault has been a pleasant one.",
+  "closedcaptions.portal.00_part1_entry-3": "<clr:219,112,147><I>Your specimen has been processed and we are now ready to begin the test proper.",
+  "closedcaptions.portal.00_part1_entry-4": "<clr:219,112,147><I>Before we start, however, keep in mind that although fun and learning are the primary goals of all enrichment center activities, serious injuries may occur.",
+  "closedcaptions.portal.00_part1_entry-5": "<clr:219,112,147><I>For your own safety and the safety of others, please refrain from touching [bzzzzzt]",
+  "closedcaptions.portal.00_part1_entry-6": "<clr:219,112,147><I>Por favor bordón de fallar Muchos gracias de fallar gracias",
+  "closedcaptions.portal.00_part1_entry-7": "<clr:219,112,147><I>stand back. The portal will open in three. two. one.",
+  "item.portal_mod.portal_gun": "Portal Gun",
+  "portal.menu.achievements": "Achievements",
+  "portal.menu.challenge_maps": "Challenge Maps",
+  "portal.menu.exit_game": "Exit Game",
+  "portal.menu.help_n_options": "Help & Options",
+  "portal.menu.leaderboards": "Leaderboards",
+  "portal.menu.start_game": "Start Game"
 }

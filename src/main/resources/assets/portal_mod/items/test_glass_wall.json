@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "portal_mod:block/test_glass_wall"
+  }
+}

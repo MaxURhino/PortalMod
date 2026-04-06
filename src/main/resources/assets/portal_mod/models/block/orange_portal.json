@@ -1,0 +1,7 @@
+{
+  "parent": "portal_mod:block/portal",
+  "textures": {
+    "bottom": "portal_mod:block/portal/orange/bottom",
+    "top": "portal_mod:block/portal/orange/top"
+  }
+}

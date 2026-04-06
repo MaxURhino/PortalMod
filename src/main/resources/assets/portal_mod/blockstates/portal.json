@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "color=blue,facing=north": {
+      "model": "portal_mod:block/blue_portal"
+    },
+    "color=blue,facing=east": {
+      "model": "portal_mod:block/blue_portal",
+      "y": 90
+    },
+    "color=blue,facing=south": {
+      "model": "portal_mod:block/blue_portal",
+      "y": 180
+    },
+    "color=blue,facing=west": {
+      "model": "portal_mod:block/blue_portal",
+      "y": 270
+    },
+
+    "color=orange,facing=north": {
+      "model": "portal_mod:block/orange_portal"
+    },
+    "color=orange,facing=east": {
+      "model": "portal_mod:block/orange_portal",
+      "y": 90
+    },
+    "color=orange,facing=south": {
+      "model": "portal_mod:block/orange_portal",
+      "y": 180
+    },
+    "color=orange,facing=west": {
+      "model": "portal_mod:block/orange_portal",
+      "y": 270
+    }
+  }
+}

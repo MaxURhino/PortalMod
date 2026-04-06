@@ -4,18 +4,24 @@ import com.geckolib.animatable.GeoItem;
 import com.geckolib.animatable.client.GeoRenderProvider;
 import com.geckolib.animatable.instance.AnimatableInstanceCache;
 import com.geckolib.animatable.manager.AnimatableManager;
+import com.geckolib.animation.AnimationController;
+import com.geckolib.animation.RawAnimation;
+import com.geckolib.animation.object.PlayState;
 import com.geckolib.model.DefaultedItemGeoModel;
 import com.geckolib.renderer.GeoItemRenderer;
 import com.geckolib.util.GeckoLibUtil;
 import com.google.common.base.Suppliers;
 import net.maxrhino.portal_mod.registry.item.util.geckolib.PortalGunItemRenderer;
 import net.maxrhino.portal_mod.util.PortalColor;
+import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
+import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
+import net.minecraft.world.level.block.state.BlockState;
 import org.jspecify.annotations.Nullable;
 
 import java.util.function.Consumer;
@@ -30,8 +36,15 @@ public class PortalGunItem extends Item implements GeoItem {
     }
 
     @Override
-    public void registerControllers(AnimatableManager.ControllerRegistrar controllerRegistrar) {
+    public void registerControllers(AnimatableManager.ControllerRegistrar controllers) {
+        controllers.add(new AnimationController<>("AnimationHandler", _->PlayState.STOP)
+                .triggerableAnim("idle", RawAnimation.begin().thenLoop("animation.portal_gun.idle"))
+                .triggerableAnim("shoot", RawAnimation.begin().thenLoop("animation.portal_gun.shoot"))
+        );
+    }
 
+    public void setPortalColor(PortalColor portalColor) {
+        this.portalColor = portalColor;
     }
 
     @Override
@@ -44,16 +57,6 @@ public class PortalGunItem extends Item implements GeoItem {
                 return this.renderer.get();
             }
         });
-    }
-
-    @Override
-    public InteractionResult use(Level level, Player player, InteractionHand hand) {
-        PortalColor newColor = PortalColor.invert(portalColor);
-        if (newColor != null) {
-            portalColor = newColor;
-            return InteractionResult.SUCCESS;
-        }
-        return super.use(level, player, hand);
     }
 
     @Override

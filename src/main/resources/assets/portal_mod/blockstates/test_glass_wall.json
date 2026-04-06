@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "portal_mod:block/test_glass_wall"
+    },
+    "facing=east": {
+      "model": "portal_mod:block/test_glass_wall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "portal_mod:block/test_glass_wall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "portal_mod:block/test_glass_wall",
+      "y": 270
+    }
+  }
+}
