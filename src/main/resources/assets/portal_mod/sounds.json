@@ -1,8 +1,2066 @@
 {
+  "portal.escape_02_sphere_cakemix-41": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-41"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_second_hit_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_second_hit_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag02-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag02-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-11"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-26": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-26"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-23": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-23"
+    ],
+    "replace": false
+  },
+  "portal.10_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/10_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-06"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_trapped-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_trapped-1"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-25": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-25"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-08"
+    ],
+    "replace": false
+  },
+  "portal.09_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/09_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-10"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-19": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-19"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag13-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag13-1"
+    ],
+    "replace": false
+  },
+  "portal.14_part1_end-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/14_part1_end-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-12": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-12"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.ding_on": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/ding_on"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-16": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-16"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.generic_security_camera_destroyed-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_security_camera_destroyed-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_nags_08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_nags_08"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-5"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-16": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-16"
+    ],
+    "replace": false
+  },
+  "portal.09_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/09_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-01"
+    ],
+    "replace": false
+  },
+  "portal.generic_crate_vaporized_in_emancipation_grid-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_crate_vaporized_in_emancipation_grid-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag16-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag16-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-13": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-13"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag12-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag12-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_first_hit_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_first_hit_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_into_the_fire-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_into_the_fire-5"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-15": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-15"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-22": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-22"
+    ],
+    "replace": false
+  },
+  "portal.generic_security_camera_destroyed-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_security_camera_destroyed-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-near_fire01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-near_fire01"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part2_nag03-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part2_nag03-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_death_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_death_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-10"
+    ],
+    "replace": false
+  },
+  "portal.06_part1_success_2-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/06_part1_success_2-1"
+    ],
+    "replace": false
+  },
+  "portal.03_part2_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/03_part2_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-05"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag15-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag15-1"
+    ],
+    "replace": false
+  },
+  "portal.10_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/10_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag07-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag07-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-06"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_death_scream": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_death_scream"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-22": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-22"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-05"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-37": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-37"
+    ],
+    "replace": false
+  },
   "portal.00_part1_entry-1": {
-    "replace": false,
     "sounds": [
       "portal_mod:vo/aperture_ai/00_part1_entry-1"
-    ]
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-18": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-18"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-05"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-21": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-21"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag06-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag06-1"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_into_the_fire-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_into_the_fire-2"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-14": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-14"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag08-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag08-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-05"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag05-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag05-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-13": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-13"
+    ],
+    "replace": false
+  },
+  "portal.generic_crate_vaporized_in_emancipation_grid-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_crate_vaporized_in_emancipation_grid-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-26": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-26"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-24": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-24"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_into_the_fire-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_into_the_fire-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag04-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag04-1"
+    ],
+    "replace": false
+  },
+  "portal.03_part2_platform_activated-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/03_part2_platform_activated-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-29": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-29"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-04"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_entry-00": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_entry-00"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag05-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag05-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-27": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-27"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-02"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-5"
+    ],
+    "replace": false
+  },
+  "portal.10_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/10_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-08"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-08"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_entry-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_entry-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag03-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag03-1"
+    ],
+    "replace": false
+  },
+  "portal.00_part2_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part2_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.07_part2_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part2_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.03_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/03_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-17": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-17"
+    ],
+"replace": false
+  },
+  "portal.escape_02_sphere_cakemix-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-10"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-38": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-38"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-09"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.file_deleted": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/file_deleted"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-15": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-15"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_trapped-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_trapped-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag10-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag10-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-09"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-08"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-16": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-16"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_into_the_fire-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_into_the_fire-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-20": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-20"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_middle-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_middle-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-ancillary2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-ancillary2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-04"
+    ],
+    "replace": false
+  },
+  "portal.11_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/11_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag08-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag08-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag10-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag10-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-15": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-15"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-10"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_success-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_success-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-09"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-00": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-00"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-15": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-15"
+    ],
+    "replace": false
+  },
+  "portal.07_part2_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part2_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-18": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-18"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-14": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-14"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_get_device_component-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_get_device_component-2"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_07"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_end-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_end-1"
+    ],
+    "replace": false
+  },
+  "portal.generic_security_camera_destroyed-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_security_camera_destroyed-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag17-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag17-1"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-7": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-7"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_second_hit_nag02-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_second_hit_nag02-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-08"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.01_part2_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part2_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-05"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-4"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag09-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag09-1"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-near_fire02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-near_fire02"
+    ],
+    "replace": false
+  },
+  "portal.11_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/11_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-6": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-6"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-11"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag11-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag11-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-02"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-3"
+    ],
+    "replace": false
+  },
+  "portal.11_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/11_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.04_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/04_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_09"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_middle-2b-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_middle-2b-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredrop1-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredrop1-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag07-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag07-1"
+    ],
+    "replace": false
+  },
+  "portal.14_part1_end-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/14_part1_end-2"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_success-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_success-2"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-34": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-34"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-15": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-15"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-03"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_nag4-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_nag4-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-28": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-28"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-31": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-31"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-09"
+    ],
+    "replace": false
+  },
+  "portal.generic_security_camera_destroyed-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_security_camera_destroyed-5"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-06"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_trapped-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_trapped-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_entry-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_entry-01"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-7": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-7"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_ballhitpain-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_ballhitpain-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-17": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-17"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-30": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-30"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-27": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-27"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-25": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-25"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-05"
+    ],
+    "replace": false
+  },
+  "portal.06_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/06_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredrop1-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredrop1-02"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-7": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-7"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_08"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_success-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_success-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag04-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag04-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-21": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-21"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-06"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part2_nag02-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part2_nag02-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-12": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-12"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-11"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-16": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-16"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-32": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-32"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-05"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-07"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-10"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-13": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-13"
+    ],
+    "replace": false
+  },
+  "portal.11_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/11_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.02_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-17": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-17"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-02"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-7": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-7"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-4"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag06-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag06-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_entry-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_entry-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-35": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-35"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-40": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-40"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-3"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_get_device_component-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_get_device_component-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-11"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-19": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-19"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-12": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-12"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-03"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_into_the_fire-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_into_the_fire-4"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-23": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-23"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-01"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_end-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_end-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-07"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_01"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_first_hit_nag03-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_first_hit_nag03-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-06"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-11"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag12-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag12-1"
+    ],
+    "replace": false
+  },
+  "portal.03_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/03_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-33": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-33"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-1"
+    ],
+    "replace": false
+  },
+  "portal.02_part2_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part2_success-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-09"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-10"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-05"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-4"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-02"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-08"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-18": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-18"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-4"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_entry-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_entry-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-17": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-17"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-06"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_end-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_end-3"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredrop1-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredrop1-03"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-ancillary1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-ancillary1"
+    ],
+    "replace": false
+  },
+  "portal.generic_security_camera_destroyed-4": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_security_camera_destroyed-4"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-6": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-6"
+    ],
+    "replace": false
+  },
+  "portal.14_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/14_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-14": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-14"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-36": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-36"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_euthanized-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_euthanized-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-24": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-24"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-04"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-02": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-02"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_trapped-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_trapped-1"
+    ],
+    "replace": false
+  },
+  "portal.10_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/10_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_middle-2b-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_middle-2b-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-07"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyspeech-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyspeech-5"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-09"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-12": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-12"
+    ],
+    "replace": false
+  },
+  "portal.02_part1_success-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part1_success-2"
+    ],
+    "replace": false
+  },
+  "portal.07_part1_get_device_component-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/07_part1_get_device_component-3"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyreminder-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyreminder-1"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_05"
+    ],
+    "replace": false
+  },
+  "portal.00_part2_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part2_success-1"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_nag1-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_nag1-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-06"
+    ],
+    "replace": false
+  },
+  "portal.generic_crate_lost-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_crate_lost-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy3-03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy3-03"
+    ],
+    "replace": false
+  },
+  "portal.generic_crate_lost-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/generic_crate_lost-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag02-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag02-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-00": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-00"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-08": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-08"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_middle-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_middle-1"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_pickup-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_pickup-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spherenag1-06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spherenag1-06"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_03": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_03"
+    ],
+    "replace": false
+  },
+  "portal.15_part1_partyfinalstop-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/15_part1_partyfinalstop-1"
+    ],
+    "replace": false
+  },
+  "portal.14_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/14_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-10": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-10"
+    ],
+    "replace": false
+  },
+  "portal.escape_nags_07": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_nags_07"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-11": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-11"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag03-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag03-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-20": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-20"
+    ],
+    "replace": false
+  },
+  "portal.post_escape_bridge_06": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/post_escape_bridge_06"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag14-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag14-1"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-6": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-6"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-18": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-18"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-20": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-20"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_get_portal_gun-8": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_get_portal_gun-8"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-09": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-09"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-04": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-04"
+    ],
+    "replace": false
+  },
+  "portal.04_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/04_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-8": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-8"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy2-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy2-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-39": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-39"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_curiosity-13": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_curiosity-13"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-6": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-6"
+    ],
+    "replace": false
+  },
+  "portal.ding_off": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/ding_off"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.01_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part2_nag01-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part2_nag01-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-21": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-21"
+    ],
+    "replace": false
+  },
+  "portal.02_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.06_part1_success_1-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/06_part1_success_1-1"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-3": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-3"
+    ],
+    "replace": false
+  },
+  "portal.08_part1_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/08_part1_success-1"
+    ],
+    "replace": false
+  },
+  "portal.02_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-19": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-19"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_cakemix-13": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_cakemix-13"
+    ],
+    "replace": false
+  },
+  "portal.13_part1_endnag-5": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/13_part1_endnag-5"
+    ],
+    "replace": false
+  },
+  "portal.00_part1_entry-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/00_part1_entry-2"
+    ],
+    "replace": false
+  },
+  "portal.02_part2_success-2": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/02_part2_success-2"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_sphere_anger-12": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_sphere_anger-12"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_miscbabble-16": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_miscbabble-16"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy1-01": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy1-01"
+    ],
+    "replace": false
+  },
+  "portal.escape_02_spheredestroy4-05": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_02_spheredestroy4-05"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_nag5-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_nag5-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_00_part1_nag09-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_00_part1_nag09-1"
+    ],
+    "replace": false
+  },
+  "portal.03_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/03_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_nag2-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_nag2-1"
+    ],
+    "replace": false
+  },
+  "portal.09_part1_entry-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/09_part1_entry-1"
+    ],
+    "replace": false
+  },
+  "portal.escape_01_part1_nag11-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/escape_01_part1_nag11-1"
+    ],
+    "replace": false
+  },
+  "portal.01_part2_success-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/01_part2_success-1"
+    ],
+    "replace": false
+  },
+  "portal.05_part1_nag3-1": {
+    "sounds": [
+      "portal_mod:vo/aperture_ai/05_part1_nag3-1"
+    ],
+    "replace": false
   }
 }

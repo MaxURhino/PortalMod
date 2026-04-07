@@ -14,7 +14,7 @@ public class PortalGunModel extends GeoModel<PortalGunItem> {
     // Looks for a model file at '/assets/portal_mod/geckolib/models/item/portal_gun.geo.json'
     private final Identifier modelPath = PortalMod.id("item/portal_gun");
     // Looks for an animations file at '/assets/portal_mod/geckolib/animations/item/portal_gun.animation.json'
-    private final Identifier animationsPath = PortalMod.id("portal_gun");
+    private final Identifier animationsPath = PortalMod.id("item/portal_gun");
     // Looks for a texture file at '/assets/portal_mod/textures/item/blue_portal_gun.png'
     private final Identifier texturePath = PortalMod.id("textures/item/blue_portal_gun.png");
 

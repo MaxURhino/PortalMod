@@ -6,6 +6,7 @@ import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;
 import com.mojang.realmsclient.RealmsMainScreen;
 import net.maxrhino.portal_mod.mixin.accessors.screen.ScreenAccessor;
 import net.maxrhino.portal_mod.mixin.accessors.screen.TitleScreenAccessor;
+import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.components.SpriteIconButton;
 import net.minecraft.client.gui.components.Tooltip;
@@ -19,22 +20,26 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 
 @Mixin(TitleScreen.class)
-public abstract class MixinTitleScreen {
+public abstract class MixinTitleScreen extends MixinScreen {
     @WrapMethod(method = "createNormalMenuOptions")
     private int portal_mod$changeTheTitleScreenEntirely(int topPos, int spacing, Operation<Integer> original) {
-        TitleScreen instance = (TitleScreen)(Object)this;
-        ScreenAccessor acc = (ScreenAccessor)this;
-        acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.start_game"), (button) -> acc.portal_mod$minecraft().setScreen(new SelectWorldScreen(instance))).bounds(40, topPos, 200, 20).build());
-        Component multiplayerDisabledReason = ((TitleScreenAccessor)this).portal_mod$getMultiplayerDisabledReason();
-        boolean multiplayerAllowed = multiplayerDisabledReason == null;
-        Tooltip tooltip = multiplayerDisabledReason != null ? Tooltip.create(multiplayerDisabledReason) : null;
-        int var6;
-        ((Button)acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.challenge_maps"), (button) -> {
-            Screen screen = (Screen)(acc.portal_mod$minecraft().options.skipMultiplayerWarning ? new JoinMultiplayerScreen(instance) : new SafetyScreen(instance));
-            acc.portal_mod$minecraft().setScreen(screen);
-        }).bounds(40, var6 = topPos + spacing, 200, 20).tooltip(tooltip).build())).active = multiplayerAllowed;
-        ((Button)acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.leaderboards"), (button) -> acc.portal_mod$minecraft().setScreen(new RealmsMainScreen(instance))).bounds(40, topPos = var6 + spacing, 200, 20).tooltip(tooltip).build())).active = multiplayerAllowed;
-        return topPos;
+        TitleScreen instance = (TitleScreen) (Object) this;
+        try {
+            ScreenAccessor acc = (ScreenAccessor) this;
+            acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.start_game"), _ -> minecraft.setScreen(new SelectWorldScreen(instance))).bounds(40, topPos, 200, 20).build());
+            Component multiplayerDisabledReason = ((TitleScreenAccessor) this).portal_mod$getMultiplayerDisabledReason();
+            boolean multiplayerAllowed = multiplayerDisabledReason == null;
+            Tooltip tooltip = multiplayerDisabledReason != null ? Tooltip.create(multiplayerDisabledReason) : null;
+            int var6;
+            (acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.challenge_maps"), _ -> {
+                Screen screen = (minecraft.options.skipMultiplayerWarning ? new JoinMultiplayerScreen(instance) : new SafetyScreen(instance));
+                minecraft.setScreen(screen);
+            }).bounds(40, var6 = topPos + spacing, 200, 20).tooltip(tooltip).build())).active = multiplayerAllowed;
+            (acc.portal_mod$addRenderableWidget(Button.builder(Component.translatable("portal.menu.leaderboards"), _ -> minecraft.setScreen(new RealmsMainScreen(instance))).bounds(40, topPos = var6 + spacing, 200, 20).tooltip(tooltip).build())).active = multiplayerAllowed;
+            return topPos;
+        } catch (Exception e) {
+            return original.call(topPos, spacing);
+        }
     }
 
     @WrapOperation(method = "init", at = @At(value = "INVOKE", target = "Lnet/minecraft/client/gui/components/SpriteIconButton;setPosition(II)V", ordinal = 0))

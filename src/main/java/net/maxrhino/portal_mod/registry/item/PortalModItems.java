@@ -13,7 +13,6 @@ import net.minecraft.world.item.Rarity;
 import java.util.function.Function;
 
 public class PortalModItems extends ModAssetInitializer {
-    // TODO: Register the portal gun.
     public static final Item PORTAL_GUN = register(
             "portal_gun",
             PortalGunItem::new,

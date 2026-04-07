@@ -1,5 +1,6 @@
 package net.maxrhino.portal_mod;
 
+import com.geckolib.animatable.GeoItem;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
 import net.fabricmc.api.ModInitializer;
@@ -19,6 +20,8 @@ import net.minecraft.client.KeyMapping;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.resources.Identifier;
+import net.minecraft.server.level.ServerLevel;
+import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
@@ -34,23 +37,6 @@ public class PortalMod implements ModInitializer {
     public void onInitialize() {
         LOGGER.info("Loading {}.", MOD_NAME);
         AutoConfig.register(PortalModConfig.class, JanksonConfigSerializer::new);
-        ClientTickEvents.START_CLIENT_TICK.register((client) -> {
-            if (client.player != null) {
-                ItemStack stack = client.player.getMainHandItem();
-                Item item = stack.getItem();
-                if (item instanceof PortalGunItem portalGunItem) {
-                    KeyMapping destroyKey = client.options.keyAttack;
-                    while (destroyKey.consumeClick()) {
-                        portalGunItem.setPortalColor(PortalColor.ORANGE);
-                    }
-
-                    KeyMapping useKey = client.options.keyUse;
-                    while (useKey.consumeClick()) {
-                        portalGunItem.setPortalColor(PortalColor.BLUE);
-                    }
-                }
-            }
-        });
         PortalModBlocks.getInstance().bootstrap();
         PortalModItems.getInstance().bootstrap();
         PortalModCreativeModeTabs.getInstance().bootstrap();

@@ -7,6 +7,7 @@ import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.level.BlockGetter;
+import net.minecraft.world.level.LevelReader;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.entity.*;
 import net.minecraft.world.level.block.state.*;
@@ -37,6 +38,15 @@ public class PortalBlock extends HorizontalDirectionalBlock implements EntityBlo
     @Override
     protected VoxelShape getShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
         return SHAPES.get(state.getValue(FACING));
+    }
+
+    @Override
+    protected boolean canSurvive(BlockState state, LevelReader level, BlockPos pos) {
+        BlockPos relativePos = pos.relative(state.getValue(FACING).getOpposite());
+        BlockPos upperRelativePos = pos.relative(state.getValue(FACING).getOpposite()).above();
+        BlockState relativeState = level.getBlockState(relativePos);
+        BlockState upperRelativeState = level.getBlockState(upperRelativePos);
+        return relativeState.isFaceSturdy(level, relativePos, state.getValue(FACING)) && upperRelativeState.isFaceSturdy(level, upperRelativePos, state.getValue(FACING));
     }
 
     @Override
